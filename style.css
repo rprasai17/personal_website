@@ -62,4 +62,21 @@ h1, h2, section {
     
 }
 
+input {
+    width: 200px;
+    height: 20px;
+    margin-left: 700px;
+    margin-top: 50px;
+    margin-bottom: -30px;
+    display: block;
+}
+
+.submit {
+    background-color: goldenrod;
+    height: 25px;
+    width: 100px;
+    margin-left: 750px;
+    
+}
+
 
